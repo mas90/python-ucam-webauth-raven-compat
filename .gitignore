@@ -1,0 +1,5 @@
+*.pyc
+dist
+build
+python_ucam_webauth.egg-info
+.pc

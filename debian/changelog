@@ -1,0 +1,7 @@
+python-ucam-webauth-raven-compat (1:0.9.0) bionic; urgency=medium
+
+  * Initial release of compatibility wrapper to aid upgrades from
+    python-raven (the University of Cambridge authentication service one)
+    to python-ucam-webauth.
+
+ -- Malcolm Scott <debianpkg@malc.org.uk>  Tue, 08 May 2018 16:58:36 +0100
